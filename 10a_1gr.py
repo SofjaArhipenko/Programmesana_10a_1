@@ -1,7 +1,7 @@
 Tatjana Grencione
 print(5+6)
 1 Arhipenko Sofja
-
+print(24+8-13)
 2 Berga Laura
 
 3 Fiïimonovs Eldars
